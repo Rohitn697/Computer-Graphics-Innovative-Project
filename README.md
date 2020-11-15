@@ -13,12 +13,12 @@ Created by Rohit Bajad (2K18/CO/300) and Rohit (2K18/CO/301) as a 5th semester P
 - OpenGl
 - C++
 
-To get started run code.cpp.
-
 
 ### Hardware Requirements:
 - Graphics System
 - Pentium P4 with 256 of Ram(Min)
+
+To get started run code.cpp.
 
 ## Screenshots
 <img src="ScreenShots/EmptyStation.png" alt="EmptyStation" align="left" width="700"  />
